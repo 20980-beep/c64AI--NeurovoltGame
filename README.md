@@ -16,7 +16,5 @@ I lavori saranno valutati da una **giuria di esperti** che premierà il team vin
 Il progetto è promosso dal **Museo di Storia dell’Informatica dell’Università di Verona**, con il supporto di **UMANA**, **ADDVALUE** e **DIGITALmeet**, e mira a unire storia dell’informatica, creatività e competenze di programmazione.
 
 # c64AI
-A Commodore 64 emulator in JavaScript with AI
+A Commodore 64 emulator in JavaScript with AI  
 How to install ⬇️
-
-
